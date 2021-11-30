@@ -11,3 +11,10 @@ BlkShld
 
 ###Install Django Rest Framework
     pip install Djangorestframework
+
+###Create startproject
+    django-admin startproject BlkShld .
+
+###Create startapp
+    django-admin startapp api
+
