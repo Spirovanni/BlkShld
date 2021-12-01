@@ -18,3 +18,11 @@ BlkShld
 ###Create startapp
     django-admin startapp api
 
+###Fire up the Engine
+    python manage.py runserver
+
+###Fire up the Engine
+    python manage.py runserver
+
+###Migrate the Project
+    python manage.py migrate
